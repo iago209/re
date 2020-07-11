@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "teste de emprego",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iago209/re.git"
+  },
+  "keywords": [
+    "node",
+    "teste",
+    "emprego",
+    "IAGO",
+    "HENRIQUE"
+  ],
+  "author": "iago henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iago209/re/issues"
+  },
+  "homepage": "https://github.com/iago209/re#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
